@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: aliceblue;
+}
+
+.person-card {
+  color: black;
+  display: flex;
+  flex-direction: column;
+}
+
+.person-card h3 {
+  font-size: 30px;
+}
